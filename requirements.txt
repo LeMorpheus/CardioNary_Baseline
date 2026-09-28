@@ -1,0 +1,13 @@
+# ML pipeline and tests. Python 3.10, pinned to the versions the models were
+# trained and validated with. The backend has its own list: gateway/requirements.txt
+
+numpy==2.1.3
+scipy==1.15.3
+pandas==2.3.3
+pyarrow==25.0.1
+scikit-learn==1.7.2
+tensorflow==2.19.1
+keras==3.12.4
+pillow==12.3.0
+matplotlib==3.10.9
+pytest==9.1.1

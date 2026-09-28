@@ -1,0 +1,12 @@
+# Store text with LF so diffs are the same on Windows, macOS and Linux.
+* text=auto eol=lf
+
+*.ps1 text eol=crlf
+
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.wav    binary
+*.keras  binary
+*.tflite binary
+*.pdf    binary

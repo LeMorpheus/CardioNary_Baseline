@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Datasets and feature caches: downloaded and built locally (see README)
+data/raw/
+data/cache/
+
+# Backend runtime files, created when the dashboard runs
+gateway/events.db*
+gateway/*.log
+gateway/media/
+
+# OS and editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
