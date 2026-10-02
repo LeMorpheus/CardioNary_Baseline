@@ -1,8 +1,5 @@
 # CardioNary_Baseline
 
-**Everything built so far, in one place, so every team member can see where the
-project stands and run it on their own laptop.**
-
 This is a **snapshot** of the software from our earlier project (Project Chiron /
 CardioNary v1): the two trained models, the full ML pipeline, the backend and the
 dashboard. It is frozen and has a single branch, `main`.
